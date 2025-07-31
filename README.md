@@ -5,4 +5,4 @@ Second Brain Repository
 
 - Adding a Drive to LVM
 - Changing a DHCP IP address to a Static Address
--  
+- Samba Share Connection to Ubuntu Server
