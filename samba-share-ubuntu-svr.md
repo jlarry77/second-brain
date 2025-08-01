@@ -56,7 +56,7 @@ sudo nano /etc/samba/smb.conf
 Add the following at the **bottom** of the file:
 
 ```conf
-[sambashare]
+[<SHARE_DIR_NAME>]
     comment = Samba on Ubuntu
     path = /home/<USER_NAME>/<SHARE_DIR_NAME>
     read only = no
